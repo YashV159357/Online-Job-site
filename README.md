@@ -5,6 +5,6 @@ Developed a comprehensive job portal featuring robust user profiles, detailed jo
  ![o1](https://github.com/YashV159357/Real-time-Chat-Application/assets/147998419/a2825ff2-f946-415d-b391-19ca2c2bf668)
  
 ## Built with
- React JS
- Tailwind CSS
- Firebase
+- React JS
+- Tailwind CSS
+- Firebase
